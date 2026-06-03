@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Lakshya%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20Builder%20%E2%80%94%20Thinker&descAlignY=60&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Lakshya%20Kumar&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Builder%20%7C%20Thinker&descAlignY=60&descSize=20&animation=fadeIn"/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=LLM+Post-Training+%26+Evaluation+%40+Ethara+AI;Building+Production-Grade+Agentic+Systems;LangGraph+%7C+FastAPI+%7C+Docker+%7C+PyTorch;Amazon+ML+Summer+School+%E2%80%94+Top+0.5%25+Nationally;Final+Year+IT+%40+MAIT%2C+Delhi+%7C+CGPA+8.56)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=LLM+Post-Training+%26+Evaluation+%40+Ethara+AI;Building+Production-Grade+Agentic+Systems;LangGraph+%7C+FastAPI+%7C+Docker+%7C+PyTorch;Amazon+ML+Summer+School+2025+%7C+Top+0.5%25+Nationally;Final+Year+IT+%40+MAIT%2C+Delhi+%7C+CGPA+8.56)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,15 +22,16 @@
 ```python
 lakshya = {
     "role"     : "LLM Generalist & Evaluator @ Ethara AI",
-    "education": "B.Tech IT — MAIT, Delhi (2022–2026) | CGPA 8.56",
-    "select"   : "Amazon ML Summer School 2025 — Top 0.5% nationally",
+    "education": "B.Tech IT, MAIT Delhi (2022-2026) | CGPA 8.56",
+    "select"   : "Amazon ML Summer School 2025 | Top 0.5% nationally",
     "focus"    : ["LLM post-training", "agentic systems", "ML deployment"],
-    "currently": "building production AI — from policy engines to RAG pipelines",
+    "currently": "building production AI from policy engines to RAG pipelines",
     "motto"    : "Build things that think, scale, and solve."
 }
 ```
 
-I'm a final-year IT student who ships AI systems end-to-end — from fine-tuning and evaluation to Docker-based deployment. I don't just train models; I build the scaffolding around them: deterministic policy engines, audit layers, LangGraph workflows, and clean APIs that hold up under real load.
+Final-year IT student who ships AI systems end-to-end. Not just model training: the scaffolding too.
+Deterministic policy engines. Audit layers. LangGraph workflows. Clean APIs under real load.
 
 ---
 
@@ -40,13 +39,13 @@ I'm a final-year IT student who ships AI systems end-to-end — from fine-tuning
 
 <div align="center">
 
-| 🥇 Achievement | Details |
-|---|---|
-| **Amazon ML Summer School 2025** | Top 0.5% nationally — selected by Amazon Science for advanced DL & deployment training |
-| **McKinsey Forward Program 2025** | Completed all 3 stages — leadership, problem-solving, digital transformation |
-| **LLM Evaluator @ Ethara AI** | Evaluated 1,000+ LLM responses for quality, reasoning, and correctness |
-| **DevOps @ Celebal Technologies** | CI/CD pipelines (GH Actions + Docker + AWS EC2/ECR) — ↓30% deployment time |
-| **ML Engineer @ Feyns Labs** | GPT + image-API MVP; KMeans EV segmentation to identify high-value clusters |
+| Achievement | Details |
+|:---|:---|
+| 🥇 **Amazon ML Summer School 2025** | Top 0.5% nationally, selected by Amazon Science for advanced DL and deployment |
+| 🎯 **McKinsey Forward Program 2025** | Completed all 3 stages: leadership, problem-solving, digital transformation |
+| 🤖 **LLM Evaluator @ Ethara AI** | Evaluated 1,000+ LLM responses for quality, reasoning, and correctness |
+| ⚙️ **DevOps @ Celebal Technologies** | CI/CD pipelines (GH Actions + Docker + AWS EC2/ECR), reduced deployment time by 30% |
+| 🔬 **ML Engineer @ Feyns Labs** | GPT + image-API MVP; KMeans EV market segmentation for high-value customer clusters |
 
 </div>
 
@@ -54,66 +53,99 @@ I'm a final-year IT student who ships AI systems end-to-end — from fine-tuning
 
 ## 🚀 Featured Projects
 
-### 🤖 [Worknoon Refund Agent](https://github.com/Predator-911)
-> Production-style AI customer-support agent for e-commerce refunds
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Deterministic policy engine** — LLM never approves/rejects; it only refines wording *after* authoritative engine decides
-- Full **LangGraph** workflow with 7 auditable tools: CRM lookup → policy validation → decision → audit log
-- Local **Qwen 2.5-3B** inference (CUDA/CPU), thread-safe singleton, auto-downloads from HuggingFace
-- **Prompt-injection defense**: override language flagged, escalated, never acted upon
-- Docker Compose stack · SQLite CRM · FastAPI · Next.js 15 ops dashboard
+### 🤖 Worknoon Refund Agent
+**Production AI customer-support agent for e-commerce refunds**
 
-`LangGraph` `Qwen` `FastAPI` `Next.js` `Docker` `SQLite` `Prompt Safety`
+- Deterministic policy engine: LLM only refines wording *after* decision
+- Full **LangGraph** workflow, 7 auditable tools: CRM lookup to audit log
+- Local **Qwen 2.5-3B** inference (CUDA/CPU auto), thread-safe singleton
+- Prompt-injection defense: override attempts flagged, escalated, never acted on
+- Docker Compose + SQLite CRM + FastAPI + Next.js 15 ops dashboard
 
----
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Qwen](https://img.shields.io/badge/Qwen-6D28D9?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### ⚖️ [JudgeFlow — Immigration Judging Automation](https://github.com/Predator-911)
-> AI-powered platform to match expert candidates to judging/reviewing opportunities
+</td>
+<td width="50%" valign="top">
 
-- **AI candidate-to-opportunity matching** with scored reasoning per match
+### ⚖️ JudgeFlow
+**Immigration judging automation platform**
+
+- AI candidate-to-opportunity matching with scored reasoning per match
 - LLM-drafted applications + follow-up email generation
-- Pipeline tracking dashboard (Draft → Submitted → Accepted/Rejected)
-- Bulk CSV ingestion · dark-themed Streamlit UI with particle animations
+- Pipeline tracking: Draft to Submitted to Accepted/Rejected
+- Bulk CSV ingestion, dark Streamlit UI with particle animations
 
-`Streamlit` `LangChain` `HuggingFace Transformers` `Pandas`
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 [TalentScout AI Assistant](https://huggingface.co/spaces/Predator911/TalentScout)
-> Multilingual BERT-based resume screening with sentiment analysis
+**Multilingual BERT resume screener with sentiment analysis**
 
-- Increased shortlisting efficiency by **40%**
-- Multilingual support via HuggingFace Transformers
-- Deployed live on HuggingFace Spaces
+- Shortlisting efficiency up by **40%**
+- Multilingual via HuggingFace Transformers
+- Live on HuggingFace Spaces
 
-`BERT` `Transformers` `Sentiment Analysis` `Streamlit`
+![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
----
-
-### 📄 [RAG API System](https://github.com/Predator-911/DocumentAnalysisAssistant)
-> Async document Q&A over 100+ documents — 95% accuracy
-
-- LangChain + ChromaDB vector store · async FastAPI backend
-- Handles 100+ documents with high retrieval precision
-
-`LangChain` `ChromaDB` `FastAPI` `Python`
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🤫 [GenAI Steganography](https://huggingface.co/spaces/Predator911/SGENAI)
-> Latent-diffusion model that hides text inside AI-generated images
+**Latent-diffusion model hiding text inside AI-generated images**
 
 - **98% retrieval accuracy** on hidden payloads
-- Novel application of diffusion models beyond image generation
+- Novel diffusion model application beyond image generation
 
-`Diffusion Models` `PyTorch` `HuggingFace`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Diffusion](https://img.shields.io/badge/Diffusion_Models-6D28D9?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [RAG API System](https://github.com/Predator-911/DocumentAnalysisAssistant)
+**Async document Q&A over 100+ documents**
+
+- LangChain + ChromaDB vector store, 95% retrieval accuracy
+- Async FastAPI backend
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6D28D9?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### 📦 [AI Warehouse Management](https://huggingface.co/spaces/Predator911/AIWMS)
-> Intelligent inventory and warehouse optimization system
+**Intelligent inventory and warehouse optimization**
 
-`Python` `AI/ML` `Streamlit`
+- Live on HuggingFace Spaces
+- AI-powered stock prediction and management
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -134,7 +166,7 @@ I'm a final-year IT student who ships AI systems end-to-end — from fine-tuning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=flat-square)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square)
@@ -166,12 +198,21 @@ I'm a final-year IT student who ships AI systems end-to-end — from fine-tuning
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=predator-911&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=predator-911&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Predator-911&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Predator-911&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
 
-<br/>
+</div>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=predator-911&theme=tokyonight&hide_border=true"/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Predator-911&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Predator-911&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 
 </div>
 
@@ -179,13 +220,17 @@ I'm a final-year IT student who ships AI systems end-to-end — from fine-tuning
 
 ## 🏅 Certifications
 
+<div align="center">
+
 | Certification | Issuer | Focus |
-|---|---|---|
-| **Amazon ML Summer School 2025** | Amazon Science | Deep Learning, Deployment, NLP |
-| **McKinsey Forward Program** | McKinsey & Company | Leadership, Problem Solving, Digital |
-| **Power BI Virtual Internship** | PwC | Data Analytics & Visualization |
+|:---|:---|:---|
+| **Amazon ML Summer School 2025** | Amazon Science | Deep Learning, NLP, Deployment |
+| **McKinsey Forward Program** | McKinsey and Company | Leadership, Problem Solving, Digital |
+| **Power BI Virtual Internship** | PwC | Data Analytics and Visualization |
 | **Data Science Virtual Internship** | British Airways | Predictive Modeling |
-| **Audit Analytics Internship** | EY | Business Insight & Analytics |
+| **Audit Analytics Internship** | EY | Business Insight and Analytics |
+
+</div>
 
 ---
 
