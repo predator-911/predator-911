@@ -1,27 +1,198 @@
- 💫 About Me:
- 👋 Hey there! I'm Lakshya Kumar<br><br>🎓 Final year B.Tech student in Information Technology at MAIT, Delhi  <br>🧠 Passionate about building real-world AI systems — from idea to deployment<br><br> 🚀 What I Do:<br>- 🧩 Work on **LLM-powered apps**, **LangChain pipelines**, and **RAG systems**<br>- ⚙️ Build & deploy **FastAPI-based ML microservices** using Docker & CI/CD<br>- ☁️ Experiment with **cloud platforms** (GCP, AWS), vector DBs, and scalable ML<br><br> 💼 Currently:<br>- 🛠️ ML Intern @ **Feyns Labs**<br>- ⚙️ DevOps Intern @ **Celebal Technologies**<br>- 🤖 NLP + CV Projects @ **Cantilever Labs**<br><br> 🛠️ Tech Stack:<br>`Python` `FastAPI` `LangChain` `TensorFlow` `Docker` `GitHub Actions`  <br>`ChromaDB` `GCP` `AWS` `MongoDB` `Hugging Face` `Streamlit` `Dialogflow`<br><br>### 🌐 My Work:<br>- [🧠 TalentScout AI Assistant](https://huggingface.co/spaces/Predator911/TalentScout)  <br>- [📄 Document Q&A with LangChain](https://github.com/Predator-911/DocumentAnalysisAssistant)  <br>- [🤫 Steganography Gen-AI](https://huggingface.co/spaces/Predator911/SGENAI)  <br>- [📦 AI Warehouse Management](https://huggingface.co/spaces/Predator911/AIWMS)<br><br>### 📫 Let's Connect!<br>- 🔗 [LinkedIn](https://linkedin.com/in/lakshya-kumar-7b16252b4)  <br>- 🧠 [GitHub](https://github.com/Predator-911)  <br>- 📨 sharmalakshay0911@gmail.com  <br><br>---<br>_"Building things that think, scale, and solve."_<br>
+<div align="center">
 
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Lakshya%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20Builder%20%E2%80%94%20Thinker&descAlignY=60&descSize=18&animation=fadeIn"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Lakshya Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmalakshay0911@gmail.com) 
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=LLM+Post-Training+%26+Evaluation+%40+Ethara+AI;Building+Production-Grade+Agentic+Systems;LangGraph+%7C+FastAPI+%7C+Docker+%7C+PyTorch;Amazon+ML+Summer+School+%E2%80%94+Top+0.5%25+Nationally;Final+Year+IT+%40+MAIT%2C+Delhi+%7C+CGPA+8.56)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=predator-911&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=predator-911&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=predator-911&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=predator-911&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshya-kumar-7b16252b4)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmalakshay0911@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Predator-911)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Predator911)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=predator-911&label=Profile+Views&color=6d28d9&style=flat-square" alt="visitors"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=predator-911&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=predator-911&icon=8&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ About Me
+
+```python
+lakshya = {
+    "role"     : "LLM Generalist & Evaluator @ Ethara AI",
+    "education": "B.Tech IT — MAIT, Delhi (2022–2026) | CGPA 8.56",
+    "select"   : "Amazon ML Summer School 2025 — Top 0.5% nationally",
+    "focus"    : ["LLM post-training", "agentic systems", "ML deployment"],
+    "currently": "building production AI — from policy engines to RAG pipelines",
+    "motto"    : "Build things that think, scale, and solve."
+}
+```
+
+I'm a final-year IT student who ships AI systems end-to-end — from fine-tuning and evaluation to Docker-based deployment. I don't just train models; I build the scaffolding around them: deterministic policy engines, audit layers, LangGraph workflows, and clean APIs that hold up under real load.
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+| 🥇 Achievement | Details |
+|---|---|
+| **Amazon ML Summer School 2025** | Top 0.5% nationally — selected by Amazon Science for advanced DL & deployment training |
+| **McKinsey Forward Program 2025** | Completed all 3 stages — leadership, problem-solving, digital transformation |
+| **LLM Evaluator @ Ethara AI** | Evaluated 1,000+ LLM responses for quality, reasoning, and correctness |
+| **DevOps @ Celebal Technologies** | CI/CD pipelines (GH Actions + Docker + AWS EC2/ECR) — ↓30% deployment time |
+| **ML Engineer @ Feyns Labs** | GPT + image-API MVP; KMeans EV segmentation to identify high-value clusters |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 [Worknoon Refund Agent](https://github.com/Predator-911)
+> Production-style AI customer-support agent for e-commerce refunds
+
+- **Deterministic policy engine** — LLM never approves/rejects; it only refines wording *after* authoritative engine decides
+- Full **LangGraph** workflow with 7 auditable tools: CRM lookup → policy validation → decision → audit log
+- Local **Qwen 2.5-3B** inference (CUDA/CPU), thread-safe singleton, auto-downloads from HuggingFace
+- **Prompt-injection defense**: override language flagged, escalated, never acted upon
+- Docker Compose stack · SQLite CRM · FastAPI · Next.js 15 ops dashboard
+
+`LangGraph` `Qwen` `FastAPI` `Next.js` `Docker` `SQLite` `Prompt Safety`
+
+---
+
+### ⚖️ [JudgeFlow — Immigration Judging Automation](https://github.com/Predator-911)
+> AI-powered platform to match expert candidates to judging/reviewing opportunities
+
+- **AI candidate-to-opportunity matching** with scored reasoning per match
+- LLM-drafted applications + follow-up email generation
+- Pipeline tracking dashboard (Draft → Submitted → Accepted/Rejected)
+- Bulk CSV ingestion · dark-themed Streamlit UI with particle animations
+
+`Streamlit` `LangChain` `HuggingFace Transformers` `Pandas`
+
+---
+
+### 🧠 [TalentScout AI Assistant](https://huggingface.co/spaces/Predator911/TalentScout)
+> Multilingual BERT-based resume screening with sentiment analysis
+
+- Increased shortlisting efficiency by **40%**
+- Multilingual support via HuggingFace Transformers
+- Deployed live on HuggingFace Spaces
+
+`BERT` `Transformers` `Sentiment Analysis` `Streamlit`
+
+---
+
+### 📄 [RAG API System](https://github.com/Predator-911/DocumentAnalysisAssistant)
+> Async document Q&A over 100+ documents — 95% accuracy
+
+- LangChain + ChromaDB vector store · async FastAPI backend
+- Handles 100+ documents with high retrieval precision
+
+`LangChain` `ChromaDB` `FastAPI` `Python`
+
+---
+
+### 🤫 [GenAI Steganography](https://huggingface.co/spaces/Predator911/SGENAI)
+> Latent-diffusion model that hides text inside AI-generated images
+
+- **98% retrieval accuracy** on hidden payloads
+- Novel application of diffusion models beyond image generation
+
+`Diffusion Models` `PyTorch` `HuggingFace`
+
+---
+
+### 📦 [AI Warehouse Management](https://huggingface.co/spaces/Predator911/AIWMS)
+> Intelligent inventory and warehouse optimization system
+
+`Python` `AI/ML` `Streamlit`
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=flat-square)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Agentic / Infra**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Data / Databases**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6D28D9?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=predator-911&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=predator-911&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=predator-911&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer | Focus |
+|---|---|---|
+| **Amazon ML Summer School 2025** | Amazon Science | Deep Learning, Deployment, NLP |
+| **McKinsey Forward Program** | McKinsey & Company | Leadership, Problem Solving, Digital |
+| **Power BI Virtual Internship** | PwC | Data Analytics & Visualization |
+| **Data Science Virtual Internship** | British Airways | Predictive Modeling |
+| **Audit Analytics Internship** | EY | Business Insight & Analytics |
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+
+*"Building things that think, scale, and solve."*
+
+</div>
